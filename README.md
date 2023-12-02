@@ -7,11 +7,11 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 
 ## Stars earned (as of 12/2): 3
 
-## Day 01: :star2: 
+## Day 01: 🌟 
 
 * I ran into parsing trouble, but I'm not sure what the solution is (yet). Will probably come back to it. Will think on it.
 
-## Day 02: :star2: :star2:
+## Day 02: 🌟 🌟
 
 * The most challenging aspect was parsing the input.
 * Daily use of pandas made this a straightforward solve to earn both stars
