@@ -1,4 +1,4 @@
-def get_lines(file_type='sample'):
+def get_lines(file_type='sample', day=-1):
     '''
     Read in the lines of today's sample/input file line by line. 
     Assumes the file is in folder called 'inputs/'
@@ -12,8 +12,11 @@ def get_lines(file_type='sample'):
     -------
     list of inputs stripped of whitespace
     '''
-    import datetime
-    day = str(datetime.datetime.today().day).zfill(2)
+    if day==-1:
+        import datetime
+        day = str(datetime.datetime.today().day).zfill(2)
+    else:
+        day = str(day).zfill(2)
     filename = f'inputs/{day}-{file_type}.txt'
     try:
         with open(filename,'r') as file:
@@ -21,6 +24,7 @@ def get_lines(file_type='sample'):
         return lines
     except:
         print(filename+' does not exist')
+        return None
         
 def create_empty_notebook(file):
     '''

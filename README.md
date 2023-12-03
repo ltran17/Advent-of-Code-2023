@@ -3,6 +3,7 @@
 My goal for this year is to earn 25 of 50 possible stars. Seems reasonable? 
 
 ## Things I've learned about my coding:
+* I don't like clutter. Instead of copying in the `get_lines` function I defined in cell on Days 1 and 2, I put the function in a utilities.py file and imported it. Much better!
 * TBD
 
 ## Stars earned (as of 12/2): 4
