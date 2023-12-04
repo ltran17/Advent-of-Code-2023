@@ -8,8 +8,9 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 
 ## Stars earned (as of 12/4): 7
 
-## Day 04: 🌟    Scratch Cards
+## Day 04: 🌟 🌟 Scratch Cards
 * First star is straightforward: used lots of built-in Python capabilities with string parsing and list comprehensions
+* Second star had the potential to be a real PITA, but I slowed down and figured out exactly the algorithm -- thankfully there was no need for recursion, just normal ol', nested for loops.
 
 ## Day 03: 🌟 🌟 Gear Ratios
 * I remember similar problems in past years where we had to check values "around" other values in an array. This year my solution feels more natural than in the past -- my implementation is less baroque, more straightforward. Perhaps I've matured as a programmer.

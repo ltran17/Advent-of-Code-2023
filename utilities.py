@@ -63,3 +63,4 @@ def batch_create_files(start=1):
             create_empty_notebook(file)
         with open(f'Day {day}-2.ipynb','w') as file:
             create_empty_notebook(file)
+        
