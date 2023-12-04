@@ -45,7 +45,7 @@ def create_empty_notebook(file):
 def batch_create_files(start=1):
     '''
     Create empty files at the beginning of the month for easy copy-pasting the day of.
-    Assumes all files will go into folder labelled 'inputs/'
+    Assumes all input files will go into folder labelled 'inputs/'
     
     Parameters
     ----------

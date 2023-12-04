@@ -6,7 +6,10 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 * I don't like clutter. For Day 3, I put the `get_lines` function utilities.py file to import. Much better than the copy-paste solution from Days 1 and 2.
 * TBD
 
-## Stars earned (as of 12/3): 6
+## Stars earned (as of 12/4): 7
+
+## Day 04: 🌟    Scratch Cards
+* First star is straightforward: used lots of built-in Python capabilities with string parsing and list comprehensions
 
 ## Day 03: 🌟 🌟 Gear Ratios
 * I remember similar problems in past years where we had to check values "around" other values in an array. This year my solution feels more natural than in the past -- my implementation is less baroque, more straightforward. Perhaps I've matured as a programmer.
@@ -22,6 +25,6 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 ## Day 01: 🌟 🌟 Trebuchet
 
 * Ugh slicing strings! I'm sure there is a prettier way to accomplish this. Finally got the second star. 
-* ~~I ran into parsing trouble, but I'm not sure what the solution is (yet). Will probably come back to it. Will think on it.~~
+* I ran into parsing trouble, ~~but I'm not sure what the solution is (yet). Will probably come back to it. Will think on it.~~
 
 
