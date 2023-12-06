@@ -6,7 +6,10 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 * I don't like clutter. For Day 3, I put the `get_lines` function utilities.py file to import. Much better than the copy-paste solution from Days 1 and 2.
 * When I first started AoC, Python (and thinking like a coder) was as much of a challenge as anything. Four years later, I am more fluent and the coding feels more fluid, so I can spend more time on the mathematical puzzle part of the challenge. Sometimes.
 
-## Stars earned (as of 12/5): 9
+## Stars earned (as of 12/6): 10
+
+## Day 06: 🌟 Wait for It
+* Ah, finally a day where the parsing is easy, and so is the problem! Part 1 with brute force. Just waiting for the other shoe to drop.
 
 ## Day 05: 🌟 If You Give a Seed a Fertilizer
 * Again, the hardest part was parsing! I was having a tough time getting the processing to move on to the next category once the location changed. I did some gymnastics to make it work. Not so pretty.
