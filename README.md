@@ -6,7 +6,10 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 * I don't like clutter. For Day 3, I put the `get_lines` function utilities.py file to import. Much better than the copy-paste solution from Days 1 and 2.
 * TBD
 
-## Stars earned (as of 12/4): 8
+## Stars earned (as of 12/5): 9
+
+## Day 05: 🌟 If You Give a Seed a Fertilizer
+* Again, the hardest part was parsing! I was having a tough time getting the processing to move on to the next category once the location changed. I did some gymnastics to make it work. Not so pretty.
 
 ## Day 04: 🌟 🌟 Scratch Cards
 * First star is straightforward: used lots of built-in Python capabilities with string parsing and list comprehensions
