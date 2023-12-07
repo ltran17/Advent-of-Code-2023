@@ -9,6 +9,10 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 
 ## Stars earned (as of 12/6): 11
 
+## Day 07: 🌟 Camel Cards
+* This challenge is great for practicing object oriented programming! I learned a lot! Including implementing a new-to-me dunder method, `__hash__` which gave me the tie-breaker sort for free!
+* However, part 1 is taking a long time so I will wait on part 2 for another day...off in the future.
+
 ## Day 06: 🌟 🌟 Wait for It
 * Ah, finally a day where the parsing is easy, and so is the problem! Part 1 with brute force. Just waiting for the other shoe to drop.
 * About that other shoe...a little algebra goes a very long way. No need to do billions of calculations! The roots of a binomial are all we need, plus a little massaging to get integer values.
