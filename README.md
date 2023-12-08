@@ -9,10 +9,11 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 
 ## Stars earned (as of 12/6): 11
 
-## Day 07: Camel Cards
+## Day 07: 🌟 Camel Cards
 * This challenge is great for practicing object oriented programming! I learned a lot! Including implementing a new-to-me dunder method, `__hash__` which gave me the tie-breaker sort for free!
 * However, part 1 is taking a long time so I will wait on part 2 for another day...off in the future.
-* UGH it works on the sample but gets hung up in an endless while loop for the input. I gotta go live my life. Will work on it tomorrow.
+* UGH it works on the sample but gets hung up in an endless while loop for the input. I gotta go live my life. ~~Will work on it tomorrow.~~ My resident developer fixed my eternal loop. 
+* Despite the Deus ex Machina, I am super proud of the class I created and all of its dunder methods. This is a big advance for me.
 
 ## Day 06: 🌟 🌟 Wait for It
 * Ah, finally a day where the parsing is easy, and so is the problem! Part 1 with brute force. Just waiting for the other shoe to drop.
