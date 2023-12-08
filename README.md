@@ -7,10 +7,12 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 * When I first started AoC, Python (and thinking like a coder) was as much of a challenge as anything. Four years later, I am more fluent and the coding feels more fluid, so I can spend more time on the mathematical puzzle part of the challenge. Sometimes.
 * Less about my own coding and more of an observation about AoC: as the month continues, Part 1 can almost always be solved with brute force, but Part 2 requires a mathematically elegant solution.
 
-## Stars earned (as of 12/8): 13
+## Stars earned (as of 12/8): 14
 
-## Day 08: 🌟 Haunted Wasteland
+## Day 08: 🌟 🌟 Haunted Wasteland
 * I was almost taken in by the discussion of nodes, thinking that I would need to bring in NetworkX. But no! This does not require such a complication -- very straightforward solve. I used a dictionary of named tuples (I just love a named tuple) and a while loop. First star achieved in short order!
+* My intuition about avoiding brute force to solve Part 2 was a good one here (and confirmed by resident developer). Use the least common multiple of all paths lengths to get the answer. 
+* Built in `lcm` function from the `math` package doesn't take a list ... it takes an *unpacked* list! Used the `*` iterable unpacking operator. So convenient!
 
 ## Day 07: 🌟 Camel Cards
 * This challenge is great for practicing object oriented programming! I learned a lot! Including implementing a new-to-me dunder method, `__hash__` which gave me the tie-breaker sort for free!
