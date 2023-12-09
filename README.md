@@ -4,10 +4,13 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 
 ## Things I've learned about my coding:
 * I don't like clutter. For Day 3, I put the `get_lines` function utilities.py file to import. Much better than the copy-paste solution from Days 1 and 2.
-* When I first started AoC, Python (and thinking like a coder) was as much of a challenge as anything. Four years later, I am more fluent and the coding feels more fluid, so I can spend more time on the mathematical puzzle part of the challenge. Sometimes.
+* When I first started AoC in 2020, Python (and thinking like a coder) was as much of a challenge as the actual challenges. Now I am more fluent and the coding feels more fluid, so I can spend more time on the mathematical puzzle part of the challenge. Sometimes.
 * Less about my own coding and more of an observation about AoC: as the month continues, Part 1 can almost always be solved with brute force, but Part 2 requires a mathematically elegant solution.
 
-## Stars earned (as of 12/8): 14
+## Stars earned (as of 12/9): 14
+
+## Day 09: Mirage Maintenance
+* Part 1 sample run works; input run gives me a number that is too big. Debugging is a hassle. Will have to get back to it.
 
 ## Day 08: 🌟 🌟 Haunted Wasteland
 * I was almost taken in by the discussion of nodes, thinking that I would need to bring in NetworkX. But no! This does not require such a complication -- very straightforward solve. I used a dictionary of named tuples (I just love a named tuple) and a while loop. First star achieved in short order!
