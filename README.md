@@ -7,7 +7,12 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 * When I first started AoC in 2020, Python (and thinking like a coder) was as much of a challenge as the actual challenges. Now I am more fluent and the coding feels more fluid, so I can spend more time on the mathematical puzzle part of the challenge. Sometimes.
 * Less about my own coding and more of an observation about AoC: as the month continues, Part 1 can almost always be solved with brute force, but Part 2 requires a mathematically elegant solution.
 
-## Stars earned (as of 12/9): 16
+## Stars earned (as of 12/10): 17
+
+## Day 10: 🌟 Pipe Maze
+* This stymied me for a while -- what kind of data structure? How do I keep track of everything? Discussion with resident developer about treating each tile as an object got me started on the right path, pun intended.
+* Biggest insight was that there was no need to keep track of every possible tile, just the tiles on the path. If I'm remembering previous years' challenges correctly, I have taken the hard way before, so this is an improvement.
+* Part 1 is readable enough. Will take a break before getting to Part 2.
 
 ## Day 09: 🌟 🌟 Mirage Maintenance
 * Part 1 sample run works; input run gives me a number that is too big. Debugging is a hassle. Will have to get back to it.
