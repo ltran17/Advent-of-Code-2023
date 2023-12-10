@@ -7,10 +7,12 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 * When I first started AoC in 2020, Python (and thinking like a coder) was as much of a challenge as the actual challenges. Now I am more fluent and the coding feels more fluid, so I can spend more time on the mathematical puzzle part of the challenge. Sometimes.
 * Less about my own coding and more of an observation about AoC: as the month continues, Part 1 can almost always be solved with brute force, but Part 2 requires a mathematically elegant solution.
 
-## Stars earned (as of 12/9): 14
+## Stars earned (as of 12/9): 15
 
-## Day 09: Mirage Maintenance
+## Day 09: 🌟 Mirage Maintenance
 * Part 1 sample run works; input run gives me a number that is too big. Debugging is a hassle. Will have to get back to it.
+* Debugging credit to my resident developer who noted my logical error in the assumption that all input values are positive. Got it!
+* ALSO had a good discussion about how this is a good example of when to use a stack instead of a list. If I were to ever re-write this, I'd use that data structure. I'm sure there will be another opportunity in a future challenge.
 
 ## Day 08: 🌟 🌟 Haunted Wasteland
 * I was almost taken in by the discussion of nodes, thinking that I would need to bring in NetworkX. But no! This does not require such a complication -- very straightforward solve. I used a dictionary of named tuples (I just love a named tuple) and a while loop. First star achieved in short order!
