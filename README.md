@@ -13,6 +13,7 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 * This stymied me for a while -- what kind of data structure? How do I keep track of everything? Discussion with resident developer about treating each tile as an object got me started on the right path, pun intended.
 * Biggest insight was that there was no need to keep track of every possible tile, just the tiles on the path. If I'm remembering previous years' challenges correctly, I have taken the hard way before, so this is an improvement.
 * Part 1 is readable enough. Will take a break before getting to Part 2.
+* ....Oh, Part 2 needs some serious thought and I just don't have it in me right now. [Visual demo](https://imgur.com/a/ukstWKO) of a solution found on reddit is nice.
 
 ## Day 09: 🌟 🌟 Mirage Maintenance
 * Part 1 sample run works; input run gives me a number that is too big. Debugging is a hassle. Will have to get back to it.
