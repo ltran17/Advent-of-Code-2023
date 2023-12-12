@@ -10,7 +10,8 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 ## Stars earned (as of 12/11): 18
 
 ## Day 11: 🌟 Cosmic Expansion
-* Straightforward solve, easy star
+* Part 1 is a straightforward solve, easy star
+* Part 2 is an example of when not to use brute force! Gonna pull out a pen and paper and do some math.
 
 ## Day 10: 🌟 Pipe Maze
 * This stymied me for a while -- what kind of data structure? How do I keep track of everything? Discussion with resident developer about treating each tile as an object got me started on the right path, pun intended.
