@@ -7,9 +7,9 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 * When I first started AoC in 2020, Python (and thinking like a coder) was as much of a challenge as the actual challenges. Now I am more fluent and the coding feels more fluid, so I can spend more time on the mathematical puzzle part of the challenge. Sometimes.
 * Less about my own coding and more of an observation about AoC: as the month continues, Part 1 can almost always be solved with brute force, but Part 2 requires a mathematically elegant solution.
 
-## Stars earned (as of 12/11): 18
+## Stars earned (as of 12/11): 19
 
-## Day 11: 🌟 Cosmic Expansion
+## Day 11: 🌟 🌟 Cosmic Expansion
 * Part 1 is a straightforward solve, easy star
 * Part 2 is an example of when not to use brute force! Gonna pull out a pen and paper and do some math.
 
