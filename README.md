@@ -7,7 +7,15 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 * When I first started AoC in 2020, Python (and thinking like a coder) was as much of a challenge as the actual challenges. Now I am more fluent and the coding feels more fluid, so I can spend more time on the mathematical puzzle part of the challenge. Sometimes.
 * Less about my own coding and more of an observation about AoC: as the month continues, Part 1 can almost always be solved with brute force, but Part 2 requires a mathematically elegant solution.
 
-## Stars earned (as of 12/11): 19
+## Stars earned (as of 12/14): 20
+
+## Day 13: 🌟 Point of Incidence
+* Started on the 13th but ran out of time to debug
+* So it turns out there can be more than one potential line of reflection! Gotta test 'em all.
+* Used pandas and the transform `.T` method so one function could be used for both horizontal and vertical reflections.
+
+## Day 12: Hot Spring
+* Skipped -- to much else going on (not a bad thing!). Also it didn't look fun.
 
 ## Day 11: 🌟 🌟 Cosmic Expansion
 * Part 1 is a straightforward solve, easy star
