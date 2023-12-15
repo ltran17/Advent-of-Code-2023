@@ -9,6 +9,9 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 
 ## Stars earned (as of 12/14): 20
 
+## Day 14: Parabolic Reflector Dish
+* Started but had other things to do
+
 ## Day 13: 🌟 Point of Incidence
 * Started on the 13th but ran out of time to debug
 * So it turns out there can be more than one potential line of reflection! Gotta test 'em all.
