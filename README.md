@@ -7,7 +7,7 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 * When I first started AoC in 2020, Python (and thinking like a coder) was as much of a challenge as the actual challenges. Now I am more fluent and the coding feels more fluid, so I can spend more time on the mathematical puzzle part of the challenge. Sometimes.
 * Less about my own coding and more of an observation about AoC: as the month continues, Part 1 can almost always be solved with brute force, but Part 2 requires a mathematically elegant solution.
 
-## Stars earned (as of 12/14): 21
+## Stars earned (as of 12/15): 21
 
 ## Day 15: 🌟 Lens Library
 * The hardest part here was understanding the problem statement. Straightforward solve.
