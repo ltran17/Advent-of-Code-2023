@@ -7,8 +7,21 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 * When I first started AoC in 2020, Python (and thinking like a coder) was as much of a challenge as the actual challenges. Now I am more fluent and the coding feels more fluid, so I can spend more time on the mathematical puzzle part of the challenge. Sometimes.
 * Less about my own coding and more of an observation about AoC: as the month continues, Part 1 can almost always be solved with brute force, but Part 2 requires a mathematically elegant solution.
 
-## Stars earned (as of 12/15): 21
+## Stars earned (as of 12/17): 22
 
+## Day 16: 🌟 The Floor Will Be Lava
+* Careful, careful function definitions -- I got everything else working before tackling the splitters.
+* Re-used a handy, little function of compass directions from Day 10 and then again for a turn 90 degrees function. Here is the U-turn:
+```
+def get_180_dir(dir):
+    compass = 'NESW'
+    i = compass.index(dir)
+    return compass[(i+2)%4]
+```
+* used a named tuple for the Beam
+* treated functions as first class objects in a dictionary lookup in the `take_step` function
+* I think this one is pretty readable.
+  
 ## Day 15: 🌟 Lens Library
 * The hardest part here was understanding the problem statement. Straightforward solve.
 
