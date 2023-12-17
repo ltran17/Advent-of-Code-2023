@@ -9,6 +9,9 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 
 ## Stars earned (as of 12/17): 23
 
+## Day 17: Clumsy Crucible
+* I might consider this one a wash: read through the problem statement but worked on Day 16 instead. Now I have other things to do. Since I only need two more stars to meet my goal, I'm okay letting this one go for now.
+
 ## Day 16: 🌟 🌟 The Floor Will Be Lava
 * Careful, careful function definitions -- I got everything else working before tackling the splitters.
 * Re-used a handy, little function of compass directions from Day 10 and then again for a turn 90 degrees function. Here is the U-turn:
