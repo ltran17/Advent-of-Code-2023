@@ -2,20 +2,25 @@
 
 My goal for this year is to earn 25 of 50 possible stars. Seems reasonable? 
 
+**❄️💖🎄Goal achieved!🎄💖❄️**
+
 ## Things I've learned about my coding:
-* I don't like clutter. For Day 3, I put the `get_lines` function utilities.py file to import. Much better than the copy-paste solution from Days 1 and 2.
+
 * When I first started AoC in 2020, Python (and thinking like a coder) was as much of a challenge as the actual challenges. Now I am more fluent and the coding feels more fluid, so I can spend more time on the mathematical puzzle part of the challenge. Sometimes.
 * Less about my own coding and more of an observation about AoC: as the month continues, Part 1 can almost always be solved with brute force, but Part 2 requires a mathematically elegant solution.
+* This year I am more comfortable using classes and OOO programming. I'm still solving functionally, but creating useful objects.
 
-## Stars earned (as of 12/20): 25! Goal achieved!
+## Stars earned (as of 12/23): 26! 
+* Goal of 25 stars achieved on 12/20 with the completion of Day 18 (out of order). 
 
 ## Day 19: 🌟 Aplenty
 * Oh my stars, I got the Part 1 star on the first submit.
 * Created classes for Workflow and Rule ... it got a little awkward (had to implement try/except block) but anyway it works. 
 
-## Day 18: Lavaduct Lagoon 🌟
+## Day 18: Lavaduct Lagoon 🌟 🌟 
 * Too many wonderful life events to have time for (or even read) today's challenge...so worked on it on Day 20.
 * Lots of support from resident developer who happens to also be resident mathematician. The answer is to use Green's theorem which, no, I do not remember it from I won't say how long ago. Correctly encoding the formulas led to a star on first submission!
+* Rushing through Part 2 caused parsing errors but otherwise this was a straightforward solve that used pretty much the same code as part 1.
 
 ## Day 17: Clumsy Crucible
 * I might consider this one a wash: read through the problem statement but worked on Day 16 instead. Now I have other things to do. Since I only need two more stars to meet my goal, I'm okay letting this one go for now.
