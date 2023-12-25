@@ -10,8 +10,16 @@ My goal for this year is to earn 25 of 50 possible stars. Seems reasonable?
 * Less about my own coding and more of an observation about AoC: as the month continues, Part 1 can almost always be solved with brute force, but Part 2 requires a mathematically elegant solution.
 * This year I am more comfortable using classes and OOO programming. I'm still solving functionally, but creating useful objects.
 
-## Stars earned (as of 12/23): 26! 
-* Goal of 25 stars achieved on 12/20 with the completion of Day 18 (out of order). 
+## Stars earned (as of 12/24): 27! 
+* Goal of 25 stars achieved on 12/20 with the completion of Day 18 (out of order).
+
+## Day 24: 🌟 Never Tell Me the Odds
+* Straightforward solve, not terribly nitpicky -- just some algebra.
+* Part 1 star on the first submit!
+* Not going to do part 2.
+
+## Days 20-23: Skipped
+* The most wonderful time of the year is spent baking, watching movies, and hanging out with the fam.
 
 ## Day 19: 🌟 Aplenty
 * Oh my stars, I got the Part 1 star on the first submit.
