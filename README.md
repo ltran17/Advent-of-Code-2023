@@ -1,18 +1,29 @@
 # Advent-of-Code-2023
 
+## Post-event review
+
+* This is the first year my resident developer (aka dear husband) participated and it made this challenge a lot more fun for me. When I got stuck, our discussions helped me unstick. I appreciate his mentorship and partnership.
+* Through the challenge, I developed a couple of classes that might be useful again. I'll add them to my utilities folder to prepare for next year's event.
+* I'm very proud of my 28 stars!
+
+## Goal-setting
+
 My goal for this year is to earn 25 of 50 possible stars. Seems reasonable? 
 
-**❄️💖🎄Goal achieved!🎄💖❄️**
+**❄️💖🎄Goal achieved on 12/20!🎄💖❄️**
 
 ## Things I've learned about my coding:
 
 * When I first started AoC in 2020, Python (and thinking like a coder) was as much of a challenge as the actual challenges. Now I am more fluent and the coding feels more fluid, so I can spend more time on the mathematical puzzle part of the challenge. Sometimes.
-* Less about my own coding and more of an observation about AoC: as the month continues, Part 1 can almost always be solved with brute force, but Part 2 requires a mathematically elegant solution.
+* Less about my own coding and more of an observation about AoC: as the month continues, Part 1 can almost always be solved with brute force, but Part 2 often requires a mathematically elegant solution.
 * This year I am more comfortable using classes and OOO programming. I'm still solving functionally, but creating useful objects.
 
-## Stars earned (as of 12/24): 27! 
+## Stars earned (as of 12/28): 28! 
 * Goal of 25 stars achieved on 12/20 with the completion of Day 18 (out of order).
 
+## Day 25: 🌟 Snowverload
+* NetworkX and built-in Stoer-Wagner algorithm made this very, very straightforward. Now to go understand exactly how Stoer-Wagner works...
+  
 ## Day 24: 🌟 Never Tell Me the Odds
 * Straightforward solve, not terribly nitpicky -- just some algebra.
 * Part 1 star on the first submit!
